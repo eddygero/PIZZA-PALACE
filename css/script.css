@@ -7,7 +7,7 @@ header {
     text-size-adjust: 1.0cm;
 }
  body{
-    background-image: url(../images/backgroundpizza5.jpg);
+    background-image: url(../images/backgroundpizza8.jpg);
     color: whitesmoke;
     text-size-adjust: 0.9cm;
  }
@@ -29,7 +29,7 @@ nav a:hover, footer a:hover{
 
 }
 .header{
-    background-image: url(../images/background\ pizza.jpg);
+    background-image: url(../images/pizzabackground7.jpg);
     image-orientation:unset;
     background-size: cover;
 }
@@ -37,7 +37,7 @@ nav a:hover, footer a:hover{
     width: 110%;
     height: 30vw;
     object-fit: cover;
-    opacity:30% ;
+    opacity:70% ;
 }
 .about{
     color: whitesmoke;
@@ -72,7 +72,7 @@ footer a{
     position: relative;
     text-align: center;
     cursor: default;
-    background: #5d2d79;
+    background: #ac88c0;
   }
   
   .hovereffect .overlay {
