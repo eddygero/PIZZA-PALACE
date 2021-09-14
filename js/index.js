@@ -1,5 +1,6 @@
 //Business logic
-function myPizza(size, crust, toppings = []) {
+function myPizza(flavour,size, crust, toppings = []) {
+    this.flavour = flavour;
     this.size = size;
     this.crust = crust;
     this.toppings = toppings;
