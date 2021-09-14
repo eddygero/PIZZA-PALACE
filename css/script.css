@@ -1,0 +1,155 @@
+*{
+    font-family: 'Rancho, cursive';
+}
+header {
+    color: whitesmoke;
+    background: linear-gradient(90deg, rgba(14, 13, 13, 0.945) 0%, rgb(252, 135, 40) 50%, rgb(233, 93, 0) 100%);
+    text-size-adjust: 1.0cm;
+}
+ body{
+    background-image: url(../images/backgroundpizza5.jpg);
+    color: whitesmoke;
+    text-size-adjust: 0.9cm;
+ }
+ 
+ footer{
+     background-image: url(../images/backgroundpizza3.jpg);
+     background-color:transparent ;
+    color: white;
+    
+}
+nav a, footer a{
+    color: rgb(248, 248, 248);
+    text-transform: uppercase;
+
+}
+nav a:hover, footer a:hover{
+    color: rgb(43, 241, 119);
+
+
+}
+.header{
+    background-image: url(../images/background\ pizza.jpg);
+    image-orientation:unset;
+    background-size: cover;
+}
+.card-img-top {
+    width: 110%;
+    height: 30vw;
+    object-fit: cover;
+    opacity:30% ;
+}
+.about{
+    color: whitesmoke;
+    background-image: url(../images/backgroundpizza2.jpg);
+    background-size: cover;
+}
+.body{
+    background-color: rgba(24, 36, 28, 0.521);
+    color: rgb(252, 252, 252);
+    text-size-adjust: 0.7cm;
+}
+
+.subm{
+    color: whitesmoke;
+    background: transparent;
+    background: linear-gradient(90deg, rgba(158, 29, 209, 0.945) 0%, rgb(233, 31, 216) 50%, rgb(175, 12, 102) 100%);
+}
+#gallery {
+    background-image: url(../images/backgroundpizza4.jpg);
+
+}
+footer a{
+    color: whitesmoke;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(14, 13, 13, 0.945) 0%, rgb(252, 135, 40) 50%, rgb(233, 93, 0) 100%);
+}
+.hovereffect {
+    width: 100%;
+    height: 140%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    background: #5d2d79;
+  }
+  
+  .hovereffect .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    padding: 50px 20px;
+  }
+  
+  .hovereffect img {
+    display: block;
+    position: relative;
+    max-width: none;
+    width: calc(100% + 40px);
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(-10px,0,0);
+    transform: translate3d(-10px,0,0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .hovereffect:hover img {
+    opacity: 0.8;
+    filter: alpha(opacity=40);
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+  }
+  
+  .hovereffect h2 {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 17px;
+    overflow: hidden;
+    padding: 0.5em 0;
+    background-color: transparent;
+    background: linear-gradient(90deg, rgba(14, 13, 13, 0.945) 0%, rgb(252, 135, 40) 50%, rgb(233, 93, 0) 100%);
+  }
+  
+  .hovereffect h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #fff;
+    content: '';
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(-100%,0,0);
+    transform: translate3d(-100%,0,0);
+  }
+  
+  .hovereffect:hover h2:after {
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+  }
+  
+  .hovereffect a, .hovereffect p {
+    background: linear-gradient(90deg, rgba(176, 218, 121, 0.945) 0%, rgb(248, 246, 92) 50%, rgb(228, 98, 11) 100%);
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(100%,0,0);
+    transform: translate3d(100%,0,0);
+  }
+  
+  .hovereffect:hover a, .hovereffect:hover p {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+  }
+  
