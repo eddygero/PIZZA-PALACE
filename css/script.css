@@ -34,10 +34,10 @@ nav a:hover, footer a:hover{
     background-size: cover;
 }
 .card-img-top {
-    width: 120%;
+    width: 123%;
     height: 28vw;
     object-fit: cover;
-    opacity:70% ;
+    opacity:85% ;
 }
 .about{
     color: whitesmoke;
@@ -70,9 +70,10 @@ footer a{
     float: left;
     overflow: hidden;
     position: relative;
+    background-position: center;
     text-align: center;
     cursor: default;
-    background: #ac88c0;
+    background: #e70c0c;
   }
   
   .hovereffect .overlay {
