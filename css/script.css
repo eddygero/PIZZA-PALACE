@@ -3,13 +3,13 @@
 }
 header {
     color: whitesmoke;
-    background: linear-gradient(90deg, rgba(14, 13, 13, 0.945) 0%, rgb(252, 135, 40) 50%, rgb(233, 93, 0) 100%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.945) 0%, rgb(241, 163, 17) 50%, rgb(238, 40, 33) 100% );
     text-size-adjust: 1.0cm;
 }
  body{
-    background-image: url(../images/backgroundpizza12.jpg);
+    background-image: url(../images/backgroundimage2.jpg);
     background-size: cover;
-    background-size: 114%;
+    background-size: 170%;
     background-position-x: inherit;
     color: whitesmoke;
     text-size-adjust: 0.9cm;
@@ -47,7 +47,7 @@ nav a:hover, footer a:hover{
 }
 .about{
     color: whitesmoke;
-    background-image: url(../images/backgroundpizza2.jpg);
+    background-image: url(../images/backgroundpizza5.jpg);
     background-size: cover;
 }
 .body{
@@ -59,7 +59,7 @@ nav a:hover, footer a:hover{
 .subm{
     color: whitesmoke;
     background: transparent;
-    background: linear-gradient(90deg, rgba(158, 29, 209, 0.945) 0%, rgb(233, 31, 216) 50%, rgb(175, 12, 102) 100%);
+    background: linear-gradient(90deg, rgba(252, 255, 62, 0.945) 0%, rgb(255, 251, 6) 50%, rgb(175, 23, 12) 100%);
 }
 #gallery {
     background-image: url(../images/backgroundpizza4.jpg);
