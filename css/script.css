@@ -7,13 +7,18 @@ header {
     text-size-adjust: 1.0cm;
 }
  body{
-    background-image: url(../images/backgroundpizza8.jpg);
+    background-image: url(../images/backgroundpizza12.jpg);
+    background-size: cover;
+    background-size: 114%;
+    background-position-x: inherit;
     color: whitesmoke;
     text-size-adjust: 0.9cm;
  }
  
  footer{
-     background-image: url(../images/backgroundpizza3.jpg);
+     background-image: url(../images/pizzabackground7.jpg);
+     background-size: 58%;
+     background-size: cover;
      background-color:transparent ;
     color: white;
     
@@ -29,8 +34,9 @@ nav a:hover, footer a:hover{
 
 }
 .header{
-    background-image: url(../images/pizzabackground7.jpg);
-    image-orientation:unset;
+    background-image: url(../images/backgroundpizza4.jpg);
+    background-size: 80%;
+    image-orientation: initial;
     background-size: cover;
 }
 .card-img-top {
@@ -62,7 +68,11 @@ nav a:hover, footer a:hover{
 footer a{
     color: whitesmoke;
     display: inline-block;
-    background: linear-gradient(90deg, rgba(14, 13, 13, 0.945) 0%, rgb(252, 135, 40) 50%, rgb(233, 93, 0) 100%);
+    background: linear-gradient(70deg, rgb(83, 154, 196) 0%, rgba(70, 248, 144, 0.932) 50%, rgb(131, 218, 61) 100%);
+}
+footer b{
+  background: linear-gradient(70deg, rgb(83, 154, 196) 0%, rgba(70, 248, 144, 0.932) 50%, rgb(131, 218, 61) 100%);
+
 }
 .hovereffect {
     width: 100%;
@@ -152,5 +162,8 @@ footer a{
     filter: alpha(opacity=100);
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
+  }
+  .h1{
+    background-color: black;
   }
   
