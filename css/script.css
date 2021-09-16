@@ -49,6 +49,7 @@ nav a:hover, footer a:hover{
     color: whitesmoke;
     background-image: url(../images/backgroundpizza5.jpg);
     background-size: cover;
+    image-rendering: auto;
 }
 .body{
     background-color: rgba(24, 36, 28, 0.521);
