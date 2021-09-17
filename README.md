@@ -15,4 +15,8 @@ This is a website, where customers order different sizes of pizzas with one or m
 Please reach out to me at gero.temitayo33@gmail.com if you have any questions
 or concerns.
 
+### LICENCE
+This extension is licensed under the [MIT License](LICENSE).
+Copyright (c) {2020} **{EDWARD GERO}**
+
 
