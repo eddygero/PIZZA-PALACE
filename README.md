@@ -5,11 +5,17 @@
 This is a website, where customers order different sizes of pizzas with one or more toppings.
 
 ## TECHNOLOGIES USED
-* HTML - For building the user interface
-* CSS - For styling the user interface
-* Javascript - For document object manipulation
-* Bootstrap - For styling the interface
-* jQuery - To easen use of JavaScript on your website
+* HTML - For building the user interface.
+* CSS - For styling the user interface.
+* Javascript - For document object manipulation.
+* Bootstrap - For styling the interface.
+* jQuery - To easen use of JavaScript on your website.
+
+## INSTALLATION REQUIREMENTS
+To run this webpage, you will need a browser and internet.
+* Open the browser and type :
+* click "Enter" on Windows or "Return" on Mac OS.
+* The website should then load.
 
 ## KNOWN BUGS
 There are no-known bugs. If a bug is discovered, please don't hesitate to contact me.
