@@ -20,6 +20,9 @@ To run this webpage, you will need a browser and internet.
 ## KNOWN BUGS
 There are no-known bugs. If a bug is discovered, please don't hesitate to contact me.
 
+## LIVE LINK
+https://eddygero.github.io/PIZZA-PALACE/
+
 ## SUPPORT AND CONTACT DETAILS
 Please reach out to me at gero.temitayo33@gmail.com if you have any questions
 or concerns.
