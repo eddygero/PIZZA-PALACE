@@ -13,7 +13,7 @@ This is a website, where customers order different sizes of pizzas with one or m
 
 ## INSTALLATION REQUIREMENTS
 To run this webpage, you will need a browser and internet.
-* Open the browser and type :
+* Open the browser and type :https://eddygero.github.io/PIZZA-PALACE/
 * click "Enter" on Windows or "Return" on Mac OS.
 * The website should then load.
 
