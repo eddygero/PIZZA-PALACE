@@ -11,6 +11,9 @@ This is a website, where customers order different sizes of pizzas with one or m
 * Bootstrap - For styling the interface
 * jQuery - To easen use of JavaScript on your website
 
+## KNOWN BUGS
+There are no-known bugs. If a bug is discovered, please don't hesitate to contact me.
+
 ## SUPPORT AND CONTACT DETAILS
 Please reach out to me at gero.temitayo33@gmail.com if you have any questions
 or concerns.
