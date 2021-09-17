@@ -1,5 +1,5 @@
 # PIZZA-PALACE
-#### By **EDWARD GERO TEMITAYO**
+#### By: **EDWARD GERO TEMITAYO**
 
 ## DESCRIPTION
 This is a website, where customers order different sizes of pizzas with one or more toppings.
@@ -10,5 +10,9 @@ This is a website, where customers order different sizes of pizzas with one or m
 * Javascript - For document object manipulation
 * Bootstrap - For styling the interface
 * jQuery - To easen use of JavaScript on your website
+
+## SUPPORT AND CONTACT DETAILS
+Please reach out to me at gero.temitayo33@gmail.com if you have any questions
+or concerns.
 
 
